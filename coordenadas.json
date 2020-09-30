@@ -2,7 +2,7 @@
     
 
     {
-        "key" : "STATUS",
+        "key" : "PT",
         "name" : "A2IT TECNOLOGIA",
         "latitude" : 38.657226,
         "longitude" : -9.207636
@@ -10,7 +10,7 @@
     }
     
     {
-        "key" : "STATUS",
+        "key" : "PT",
         "name" : "GO LOGISTIC",
         "latitude" : 38.756713,
         "longitude" : -9.303234
