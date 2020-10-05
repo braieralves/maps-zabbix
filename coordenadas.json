@@ -31,6 +31,14 @@
         "latitude" : 38.8192834,
         "longitude" : -9.1630417
 
+    },
+    
+   {
+        "key" : "MC",
+        "name" : "MACCANN",
+        "latitude" : 38.6952582,
+        "longitude" : -9.2249636
+
     }
 
 ]
