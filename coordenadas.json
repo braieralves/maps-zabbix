@@ -23,7 +23,14 @@
         "latitude" : 38.7682349,
         "longitude" : -9.1564742
 
-    }
+    },
+    
+    {
+        "key" : "MRH",
+        "name" : "MULTIPESSOAL",
+        "latitude" : 38.8192834,
+        "longitude" : -9.1630417
 
+    }
 
 ]
