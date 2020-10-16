@@ -70,6 +70,14 @@
         "name" : "GRANT THORTON - CONSULTORES, LDA",
         "latitude" : 38.7347363,
         "longitude" : -9.1566398
+    },
+    
+    {
+        "key" : "CHAPITO",
+        "name" : "CHAPITO",
+        "latitude" : 38.7115924,
+        "longitude" : -9.1360878
+
     }
     
 ]
