@@ -55,7 +55,13 @@
         "latitude" : 38.7044158,
         "longitude" : -8.975344
 
-    }
+    },
     
+    {
+        "key" : "FCB",
+        "name" : "FCB LISBOA",
+        "latitude" : 38.7347363,
+        "longitude" : -9.1566398
 
+    }
 ]
