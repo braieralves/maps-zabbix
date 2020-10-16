@@ -38,7 +38,16 @@
         "name" : "MCCANN",
         "latitude" : 38.7276089,
         "longitude" : -9.1564587
+       
+    },
+    
+    {
+        "key" : "AQUA",
+        "name" : "AQUAFITNESS",
+        "latitude" : 38.6040788,
+        "longitude" : -9.1855613
 
     }
+    
 
 ]
