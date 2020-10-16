@@ -47,6 +47,14 @@
         "latitude" : 38.6040788,
         "longitude" : -9.1855613
 
+    },
+    
+    {
+        "key" : "ERA",
+        "name" : "ERA MONTIJO",
+        "latitude" : 38.7044158,
+        "longitude" : -8.975344
+
     }
     
 
