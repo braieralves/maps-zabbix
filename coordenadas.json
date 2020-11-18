@@ -78,6 +78,14 @@
         "latitude" : 38.7115924,
         "longitude" : -9.1360878
 
+    },
+    
+    {
+        "key" : "PSICARE",
+        "name" : "PSICARE",
+        "latitude" : 38.771395,
+        "longitude" : -9.3513917
+
     }
     
 ]
