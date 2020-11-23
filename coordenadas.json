@@ -81,6 +81,14 @@
     },
     
     {
+        "key" : "CRIBB",
+        "name" : "CRIBB",
+        "latitude" : 38.6563548,
+        "longitude" : -9.0508078
+
+    },
+    
+    {
         "key" : "PSICARE",
         "name" : "PSICARE",
         "latitude" : 38.771395,
