@@ -130,6 +130,13 @@
         "latitude" : 39.7485149,
         "longitude" : -8.9305392
 
+    },
+     {
+        "key" : "PORTO",
+        "name" : "PORTO",
+        "latitude" : 41.1491047,
+        "longitude" : -8.6165
+
     }
     
     
