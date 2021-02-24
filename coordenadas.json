@@ -109,6 +109,28 @@
         "latitude" : 38.710219,
         "longitude" : -9.13935387
 
+    },
+     {
+        "key" : "ALVER",
+        "name" : "ALVER",
+        "latitude" : 38.9019241,
+        "longitude" : -9.0382356
+
+    },
+    {
+        "key" : "AGUE",
+        "name" : "AGUE",
+        "latitude" : 40.5761463,
+        "longitude" : -8.4468726
+
+    },
+    {
+        "key" : "MGRANDE",
+        "name" : "MGRANDE",
+        "latitude" : 39.7485149,
+        "longitude" : -8.9305392
+
     }
+    
     
 ]
